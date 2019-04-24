@@ -13,6 +13,8 @@
 	</#list>
 	</ul>
 	<br>
-	<a href="/logout">Logout</a>
+	<a href="/">Pagina principal</a>
+	<br/>
+	<a href="/sair">Logout</a>
 </body>
 </html>
